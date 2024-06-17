@@ -1,0 +1,1 @@
+Welcome to Bookmark Manager! A web-based application for managing bookmarks with ease. Each bookmark features a favicon, website URL, and title. Explore the code and features below. #BookmarkManager #WebDevelopment #Productivity
